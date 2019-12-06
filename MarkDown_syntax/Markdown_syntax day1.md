@@ -168,6 +168,10 @@ end code block.</pre>
     <code>This is code block</code>
 end code block.</pre>
 
+This is a normal paragraph:
+	'This is code block.'
+end code block.
+
 
 
 ##### 예제1.
