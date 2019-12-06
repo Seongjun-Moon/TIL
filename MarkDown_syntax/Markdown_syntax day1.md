@@ -149,9 +149,7 @@ end code block.
 
 <pre>This is a normal paragraph
 
-
 	<code>This is a code block.</code>
-
 end code block.</pre>
 
 
@@ -161,14 +159,14 @@ end code block.</pre>
 ```
 <pre>This is a normal paragraph:
 	<code> This is a code block.</code>
-</pre>end code block.
+end code block.</pre>
 ```
 
 적용하면,
 
 <pre>This is a normal paragraph:
     <code>This is a code block.</code>
-</pre>end code block.
+end code block.</pre>
 
 
 
