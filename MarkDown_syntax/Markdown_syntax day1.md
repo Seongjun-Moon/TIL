@@ -165,7 +165,7 @@ end code block.</pre>
 적용하면,
 
 <pre>This is a normal paragraph:
-    <code>This is a code block.</code>
+    <code>This is code block</code>
 end code block.</pre>
 
 
