@@ -169,7 +169,7 @@ end code block.</pre>
 end code block.</pre>
 
 This is a normal paragraph:
-	'This is code block.'
+	`This is code block.`
 end code block.
 
 
