@@ -44,7 +44,7 @@ Link: [Goolge][www.google.com]
 _single underscores_
 **double asterisks**
 __double underscores__
-++underline++
+<u>underline</u>
 ~~cancelline~~
 ```
 
@@ -56,7 +56,7 @@ _single underscores_
 
 __doouble underscores__
 
-++underline++ (?)
+<u>underline</u> (?)
 
 ~~cancelline~~
 
@@ -65,13 +65,13 @@ __doouble underscores__
 ## 8. 이미지
 
 ```
-![Alt text](/path/to/img/jpg)
-![Alt text](/path/to/img.jpg "Optional title")
+![Alt text(대체 텍스트)](/path/to/img/jpg)
+![Alt text(대체 텍스트)](/path/to/img.jpg "Optional title")
 ```
 
-![Alt text](/path/to/img.jpg)
+![Alt text](http://www.gstatic.com/webp/gallery/5.jpg)
 
-![Alt text](/path/to/img.jpg "Optional title")
+![Alt text](http://www.gstatic.com/webp/gallery/5.jpg "Optional title")
 
 
 
@@ -85,7 +85,7 @@ ex.
 
 
 
-<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="http://www.gstatic.com/webp/gallery/5.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
-<img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="http://www.gstatic.com/webp/gallery/5.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
