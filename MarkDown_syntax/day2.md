@@ -91,7 +91,7 @@ ex.
 
 - 이미지에 링크
 ```
-[![Vue](/images/vue.png)](https://kr.vuejs.org/)
+[![Vue](https://kr.vuejs.org/images/logo.png)](https://kr.vuejs.org/)
 ```
 
-[![Vue](/images/vue.png)](https://kr.vuejs.org/)
+[![Vue](https://kr.vuejs.org/images/logo.png)](https://kr.vuejs.org/)
