@@ -89,3 +89,9 @@ ex.
 
 <img src="http://www.gstatic.com/webp/gallery/5.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
+- 이미지에 링크
+```
+[![Vue](/images/vue.png)](https://kr.vuejs.org/)
+```
+
+[![Vue](/images/vue.png)](https://kr.vuejs.org/)
