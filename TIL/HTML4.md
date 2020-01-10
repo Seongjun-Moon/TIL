@@ -11,3 +11,6 @@ footer 하단 고정
 - padding-bottom에 지정한 값을 영역값으로 잡기 위해 box-sizing을 border-box로 지정
 ```
 
+Bootstrap 이용해보기
+https://www.w3schools.com/bootstrap/default.asp
+https://www.w3schools.com/bootstrap4/default.asp
