@@ -86,3 +86,36 @@ Callback hell을 극복하고자 만들어짐
     });
 ```
 
+- async/await
+```
+function a() {
+    return new Promise((resolve,reject)=>{
+        setTimeout(()=>{
+            resolve("hello");
+        },2000);
+    });
+}
+
+function b() {
+    return new Promise((resolve,reject)=>{
+        setTimeout(()=>{
+            resolve("world");
+        },1000);
+    });
+}
+
+
+async function HelloWorld () {
+    console.log("시작");
+    const result1=await a();
+    console.log(result1);
+    const result2=await b();
+    console.log(result2);
+    console.log("끝");
+}
+
+
+HelloWorld();
+
+
+```
